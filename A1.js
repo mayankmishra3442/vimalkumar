@@ -2,7 +2,7 @@
 // 1. Replace OWNER_WHATSAPP with the owner's country code + number (digits only, no + or spaces).
 // 2. Add the owner's UPI ID and QR image path. Keep the image inside this folder, e.g. "upi-qr.png".
 // 3. e-District links vary by state. Replace the India.gov.in directory URL below with your state portal.
-const OWNER_WHATSAPP = "919569585080";
+const OWNER_WHATSAPP = "919076763505";
 const OWNER_UPI_ID = "";
 const UPI_QR_IMAGE = "";
 
